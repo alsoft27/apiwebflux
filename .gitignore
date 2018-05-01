@@ -1,5 +1,9 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
+.directory
+.mvn/
+mvnw
+mvnw.cmd
 
 ### STS ###
 .apt_generated
@@ -9,6 +13,7 @@
 .settings
 .springBeans
 .sts4-cache
+
 
 ### IntelliJ IDEA ###
 .idea
